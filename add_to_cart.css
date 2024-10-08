@@ -1,0 +1,29 @@
+.cart-form {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.cart-form button {
+    padding: 5px 10px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.cart-form button:hover:not(:disabled) {
+    background-color: #2980b9;
+}
+
+.cart-form button:disabled {
+    background-color: #bdc3c7;
+    cursor: not-allowed;
+}
+
+.cart-form .quantity {
+    min-width: 20px;
+    text-align: center;
+}
