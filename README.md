@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Online Bookstore Management System
 Description
 The Online Bookstore Management System is a robust web application designed to manage the entire operations of an online bookstore. This system allows for effective management of book inventories, processing of customer orders, and handling of payments, all through a user-friendly interface for both administrators and customers.
